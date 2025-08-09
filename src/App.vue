@@ -2,7 +2,7 @@
   <div class="main-container">
     <div class="container">
       <div class="header">
-        <h1>Yiğit</h1>
+        <h1>openbyte</h1>
       </div>
       <div class="subheader">
         <BaseText />
