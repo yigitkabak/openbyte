@@ -1,6 +1,6 @@
       <template>
       <footer>
-        <p>Yiğit all rights reserved.</p>
+        <p>openbyte all rights reserved.</p>
       </footer>
       </template>
       
